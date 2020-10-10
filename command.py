@@ -1,7 +1,7 @@
 import os
 os.system("color 0e")
 print("==========================================================================")
-print("\n||\tCommand Line Interface CLI 1.0 By Anand Prabhakar,Bihar,India\t||\n||\tPowered by Python. \t\t\t\t\t\t||\n||\tjust learning..no commercial use.. \t\t\t\t||\n")
+print("\n||\tCommand Line Interface CLI 1.0 By Nirbhay Narayan Singh,Uttar Pradesh,India\t||\n||\tPowered by Python. \t\t\t\t\t\t||\n||\tjust learning..no commercial use.. \t\t\t\t||\n")
 print("==========================================================================")
 def main():
     command = input("\n\tEnter the command you want to execute : ")
